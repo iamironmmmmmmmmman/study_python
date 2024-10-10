@@ -82,3 +82,5 @@ Take that money And watch it burn
 Sink in the river The lessons I learned
 """
 print(string.count('star'))
+
+#별은 고작 8번 들었음
