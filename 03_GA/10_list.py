@@ -11,6 +11,6 @@ mylist_3 = [-300, 0, 3.14, -(2/3)]
 
 mylist_4 = [1, 15]
 
-# print(len(mylist_1))
+print(len(mylist_1))
 
 

@@ -1,5 +1,5 @@
 mystr = 'Hello'
 
-newstr = "123".join(mystr)
+newstr = " ".join(mystr)
 
 print(newstr)

@@ -1,10 +1,10 @@
 mylist = [1, 1, 1, 5, 7, 8]
 
-mylist.insert(1, 2)
+mylist.remove(1)
 
-# mylist.insert(1, 2)
+mylist.remove(1)
 
-# mylist.insert(1, 2)
+mylist.remove(1)
 
 print(mylist)
 

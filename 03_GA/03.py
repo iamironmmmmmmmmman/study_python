@@ -4,4 +4,4 @@ upstr = mystr.upper()
 
 dwstr = mystr.lower()
 
-print(mystr)
+print(dwstr)
