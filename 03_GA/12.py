@@ -7,3 +7,4 @@ mylist.append(0)
 
 print(mylist)
 
+=> [1, 4, 2, 8, 5, 7, 3, 6, 9, 0]

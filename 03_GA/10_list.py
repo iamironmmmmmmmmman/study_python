@@ -13,4 +13,4 @@ mylist_4 = [1, 15]
 
 print(len(mylist_1))
 
-
+=> 6

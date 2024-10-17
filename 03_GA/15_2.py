@@ -8,3 +8,4 @@ mylist.remove(1)
 
 print(mylist)
 
+=> [5, 7, 8]

@@ -8,3 +8,5 @@ mylist_1 = [1, "오마에와", 'a', [1, "양파", "마늘"], py, [byeol, intmax,
 # print(mylist_1)
 
 print(mylist_1[5][2][1])
+
+=> 456 
