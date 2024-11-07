@@ -13,14 +13,7 @@ people = {
 
 for D_day in range(people["전역까지"]["남은 일"], 0, -1) :
     print(f'{people["이름"]}이 눈을 감고 한숨을 쉽니다. 전역까지 {D_day}일 남았네. 또르르... 잠이 듭니다.')
-    time.sleep(1)
-
-
-
-
-
-
-
+    time.sleep(.3)
 
 print("빠빠 빠빠빠~")
 time.sleep(1)
