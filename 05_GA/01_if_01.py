@@ -2,7 +2,7 @@
 
 money = True
 
-if money == True : # money:
+if money == 1 : # money:
     print("떡볶이를 먹는다")
 else:
     print("굶어야지 뭐")

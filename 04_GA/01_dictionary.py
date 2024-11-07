@@ -10,13 +10,12 @@
 
 
 
-
 myD = {
     "이름" : "정유감",
     "나이" : 17,
     "직업" : "여고생"
     }
 
-print(myD)
+# print(myD)
 # print(myD["이름"])
 # print(myD[0])

@@ -8,11 +8,6 @@ myD = {
 
 print(myD)
 
+del myD["취미"]
 
-
-
-
-
-# del myD["특기"]
-
-# print(myD)
+print(myD)

@@ -4,6 +4,8 @@ myD = {
     "직업" : "여고생"
     }
 
+print(myD)
+
 myD["특기"] = "십자수"
 
 print(myD)

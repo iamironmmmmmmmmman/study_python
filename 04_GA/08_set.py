@@ -1,16 +1,18 @@
-myString = set("Hello")
+# myString = set("Hello")
 
-print (myString)
+# print (myString)
 
 # 중복은 사라진다.
 
-myString = list("Hello")
+# myString = list("Hello world")
 
-print (myString)
+# print (myString)
 
 # 리스트화
 
 myString = tuple("Hello")
+
+myString[1] = 1000
 
 print (myString)
 

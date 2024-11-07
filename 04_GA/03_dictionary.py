@@ -6,6 +6,8 @@ myD = {
 
 myD["특기"] = "십자수"
 
+print(myD)
+
 myD["특기"] = "뜨개질"
 
 print(myD)

@@ -11,10 +11,11 @@ people = {
     # ["떡볶이"] * 11 가능
 }
 
-while '떡볶이' in people['소지품']:
+while '떡볶이' in people['소지품'] :
     print("떡볶이를 먹습니다. 냠냠")
     people['소지품'].remove('떡볶이') 
-    time.sleep(1)  
+    time.sleep(.1)  
 
 print("떡볶이를 다 먹었습니다. 돼지같긴")
-print(people["소지품"])
+
+print(people)

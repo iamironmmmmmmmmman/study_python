@@ -10,3 +10,7 @@ myD = {
 myD["특기"] = ["십자수", "뜨개질", "요리"]
 
 print(myD)
+
+myD["특기"].append("맛집탐방")
+
+print(myD["특기"])
